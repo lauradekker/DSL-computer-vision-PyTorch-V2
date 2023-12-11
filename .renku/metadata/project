@@ -1,0 +1,38 @@
+{
+  "@renku_data_type": "renku.domain_model.project.Project",
+  "@renku_oid": "project",
+  "agent_version": "2.7.0",
+  "annotations": [],
+  "creator": {
+    "@renku_data_type": "renku.domain_model.provenance.agent.Person",
+    "@renku_data_value": {
+      "affiliation": null,
+      "alternate_name": null,
+      "email": "laura.dekker@unibe.ch",
+      "id": "mailto:laura.dekker@unibe.ch",
+      "name": "Laura Dekker"
+    }
+  },
+  "date_created": {
+    "@renku_data_type": "datetime.datetime",
+    "@renku_data_value": "2023-12-11T14:51:59.308101+00:00"
+  },
+  "description": "New approach to getting the project working on Renku",
+  "id": "/projects/laura.dekker1/dsl-computer-vision-pytorch-v2",
+  "keywords": [],
+  "minimum_renku_version": "2.4.0",
+  "name": "DSL computer vision PyTorch V2",
+  "template_metadata": {
+    "@renku_data_type": "renku.domain_model.project.ProjectTemplateMetadata",
+    "@renku_data_value": {
+      "immutable_template_files": [],
+      "metadata": "{\"__template_source__\": \"https://github.com/SwissDataScienceCenter/renku-project-template\", \"__template_ref__\": \"0.7.1\", \"__template_id__\": \"python-minimal\", \"__namespace__\": \"laura.dekker1\", \"__repository__\": \"https://gitlab.renkulab.io\", \"__sanitized_project_name__\": \"dsl-computer-vision-pytorch-v2\", \"__project_slug__\": \"laura.dekker1/dsl-computer-vision-pytorch-v2\", \"__project_description__\": \"New approach to getting the project working on Renku\", \"__renku_version__\": \"2.7.0\", \"name\": \"DSL computer vision PyTorch V2\", \"__name__\": \"DSL computer vision PyTorch V2\", \"__template_version__\": \"2e6af43c4bab1d97ac0fef947c118a49fdfbf7bc\", \"__automated_update__\": true}",
+      "ssh_supported": true,
+      "template_id": "python-minimal",
+      "template_ref": "0.7.1",
+      "template_source": "https://github.com/SwissDataScienceCenter/renku-project-template",
+      "template_version": "2e6af43c4bab1d97ac0fef947c118a49fdfbf7bc"
+    }
+  },
+  "version": 10
+}
